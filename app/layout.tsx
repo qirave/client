@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     description,
     images: [
       {
-        url: 'https://qirave-client.vercel.app/ogp.png',
+        url: 'https://qirave-client.vercel.app/imgs/ogp.png',
         width: 1200,
         height: 630,
         alt: title,
